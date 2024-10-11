@@ -5,6 +5,7 @@
 
 p {
     font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
 article {
@@ -34,7 +35,7 @@ main {
     width: 1100px;
     height: auto;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.37);
+    background-color: rgba(0, 0, 0, 0.432);
     border-radius: 10px;
 }
 
