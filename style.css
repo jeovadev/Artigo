@@ -1,0 +1,39 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+body {
+    background-color: rgba(153, 44, 255, 0.747);
+    margin: 0;
+    padding: 0;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+article {
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: white;
+    background-color: green;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    background-color: greenyellow;
+    padding: 5px;
+    text-align: center;
+}
+
+main {
+    width: 1000px;
+    height: auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
