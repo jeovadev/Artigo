@@ -3,14 +3,8 @@
     font-size: larger;
 }
 
-body {
-    background-color: rgba(153, 44, 255, 0.747);
-    margin: 0;
-    padding: 0;
-    height: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+p {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 article {
@@ -25,15 +19,22 @@ h1 {
 }
 
 h2 {
-    background-color: greenyellow;
+    background-color: rgb(143, 206, 48);
     padding: 5px;
     text-align: center;
 }
 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 main {
-    width: 1000px;
+    width: 1100px;
     height: auto;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.37);
     border-radius: 10px;
 }
+
